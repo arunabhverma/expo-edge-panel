@@ -17,7 +17,6 @@ import {
   edgeMenuType,
   viewableItemsType,
 } from "@/types";
-import { useTheme } from "@react-navigation/native";
 
 const HEIGHT = Dimensions.get("window").height;
 
